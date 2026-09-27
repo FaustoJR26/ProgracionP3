@@ -37,3 +37,7 @@ Thumbs.db
 *.exe
 *.pdb
 *.cache
+
+# Artefactos de pruebas
+TestResults/
+coverage.*
