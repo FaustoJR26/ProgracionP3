@@ -1,0 +1,39 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+.vs/
+
+# Visual Studio files
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+.idea/
+
+# Dependencies
+packages/
+.nuget/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.cache
